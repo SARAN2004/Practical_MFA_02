@@ -1,0 +1,98 @@
+body{
+    font-size:18px;
+    margin:50px 250px 50px 250px;
+}
+.pre-order-now{
+    border:none;
+    background-color: lightgray;
+    width:150px;
+    height:30px;
+    border-radius:5px ;
+    margin-left: 880px; 
+}
+.PRE-ORDER-NOW{
+    background-color: ORANGE;
+    color:white;
+    border:none ;
+    width:150px;
+    height:30px;
+    border-radius:5px ; 
+}
+.phone{
+    margin-left: 20px;
+    border-radius: 50px;
+}
+.image{
+    background-color: orange;
+    height: 20px;
+    width:30px;
+    padding-left: 6px;
+    padding-top: 8px;
+    padding-bottom: -8px;
+    border-radius: 5px;
+}
+.image1{
+    background-color: orange;
+    height:13px;
+    width:15px;
+    padding-left: 7.5px;
+    padding-top: 7.5px;
+    padding-bottom: -8px;
+    border-radius: 5px;
+    float:left;
+}
+.image-1{
+        background-color: orange;
+        height: 30px;
+        width:30px;
+        border-radius: 5px;
+    }
+
+.image2{
+    background-color: orange;
+    height: 20px;
+    width:15px;
+    padding-left: 8px;
+    padding-top: 6px;
+    padding-bottom: -8px;
+    border-radius: 5px;
+}
+.image3{
+    background-color: orange;
+    height: 12.5px;
+    width:20px;
+    padding-left: 5px;
+    padding-top: 8px;
+    padding-bottom: -8px;
+    border-radius: 5px;
+}
+.image4{
+    background-color: orange;
+    height: 20px;
+    width:20px;
+    padding-left: 5px;
+    padding-top: 6px;
+    padding-bottom: -8px;
+    border-radius: 5px;
+}
+.highly-compatible{
+    display:flex;
+ flex-direction:column;
+ font-weight: bolder;
+    font-size: larger;
+}
+.hipe{
+    margin-right: 20px;
+}
+.wireless-bluetooth{
+    font-weight: bolder;
+    font-size: larger;
+}
+.high-battery{
+    font-weight: bolder;
+    font-size: larger;
+}
+.rgb-backlight{
+    font-weight: bolder;
+    font-size: larger;
+}
