@@ -20,7 +20,10 @@ body{
 }
 .done{
   background-color:orange;
-filter: invert(30%) sepia(60%) saturate(4200%) hue-rotate(351deg) brightness(95%) contrast(80%);
+    height:300px;
+     width:150px;
+     border-radius: 10px;
+filter: invert(30%) sepia(60%) saturate(3200%) hue-rotate(351deg) brightness(110%) contrast(200%);
 }
 .phone{
     margin-left: 20px;
