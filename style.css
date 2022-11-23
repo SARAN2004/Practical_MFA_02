@@ -19,7 +19,7 @@ body{
     border-radius:5px ; 
 }
 .done{
-    filter: invert(30%) sepia(13%) saturate(3207%) hue-rotate(351deg) brightness(95%) contrast(80%);
+   filter: orangescale(50%);
 }
 .phone{
     margin-left: 20px;
